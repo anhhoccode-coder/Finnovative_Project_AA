@@ -1,4 +1,4 @@
-# Finnovative_Project_AA: Z-Shield Security Center
+# INNOVATIVE_AA: Z-Shield Security Center
 
 Đây là mã nguồn cho dự án Z-Shield - Hệ thống giả lập trung tâm điều hành bảo mật (SOC), được xây dựng bằng Python và Streamlit.
 
